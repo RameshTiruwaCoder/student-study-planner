@@ -1,12 +1,19 @@
+/* Resetting the Browser Style */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+
+/* Styling the Body */
+
 body {
     background-color: rgb(225, 214, 214);
 }
+
+/* Styling the header section */
 
 header {
     display: flex;
