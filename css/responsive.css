@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+    .header_last_things{
+        display: none;
+    }
+}
+
+@media (max-width: 400px) {
+    .header_search {
+        display: none;
+    }
+}
